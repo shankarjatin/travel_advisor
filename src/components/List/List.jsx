@@ -12,6 +12,9 @@ const List = ()=>{
 const places = [
   {name:'Cool Place'},
   {name:'Best Beer'},
+  {name: 'Best Streak'},
+  {name:'Cool Place'},
+  {name:'Best Beer'},
   {name: 'Best Streak'}
 ]
 
